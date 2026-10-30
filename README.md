@@ -32,7 +32,7 @@ A menu-driven restaurant review management system developed in C using a singly 
 
 \- Structures (`struct`)
 
-\- Singly linked lists
+\- Linked lists
 
 \- Pointers and dynamic memory allocation
 
@@ -52,7 +52,7 @@ Compile using GCC:
 
 ```bash
 
-gcc -std=c11 -Wall -Wextra -Wpedantic Restaurant\_Review\_LinkedList.c -o restaurant
+gcc -std=c11 -Wall -Wextra -Wpedantic Restaurant_Review_LinkedList.c -o restaurant
 
 ```
 
